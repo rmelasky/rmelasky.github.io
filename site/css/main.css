@@ -1,0 +1,20 @@
+.btn-primary, .nav-pills .nav-link.active {background-color: #EAEAEA; color:#000; border:none;}
+.btn-primary:hover {background-color: #515151; color:#fff;}
+.nav-link {color:#000;}
+ul li {list-style-type: none;}
+body {background-color: #EAEAEA;}
+.nav-header {background-color: #fff;}
+/*hero*/
+.hero {background:no-repeat 10% 45% / 180% url("../images/Hero.jpeg");}
+.hero .btn { margin-right: 15px !important; }
+@media screen and (max-width: 990px){.intro{background-color:rgba(255,255,255,0.5);} .intro h1, .intro p {color:#000 !important;}}
+/*cards*/
+#custom-cards {background-color: #fff;}
+.card1 {background:no-repeat center / 100% url("../images/Y-1.jpeg");}
+.card2 {background:no-repeat center / 100% url("../images/K-2.jpeg");}
+.card3 {background:no-repeat center / 100% url("../images/B.jpeg");}
+/*info*/
+.row.info { padding-top:20px; }
+.info-pic1 {background:no-repeat center / 100% url("../images/Front1.jpeg");}
+.info-pic2 {background:no-repeat center / 100% url("../images/B.jpeg");}
+.info2 {padding-left: 50px;}
